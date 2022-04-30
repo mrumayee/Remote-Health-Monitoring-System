@@ -27,5 +27,5 @@ Introduction :
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-* Search for **ESP8266** and press install button for the **“ESP8266 by ESP8266 Community“**.
+* Search for **ESP8266** and press install button for the **“ESP8266 by ESP8266 Community“** in the Board Manager.
 
